@@ -19,15 +19,15 @@ My passion for helping others has been evident in my involvement in Github Commu
 Im well-acquainted with Java,C#,PHP(API),PHP,TypeScript,.NET,JavaScript,HTML,CSS, and SQL. In terms of frameworks, Im well-acquainted with React Native and Laravel Framework.
 
 
-## Other Common Github Profile Sections
+## 👥 Know Me
 
-👩‍💻 I'm currently working on capstone projects .....
+👩‍💻 I'm currently working on my Capstone Project .....
 
 🧠 I'm currently learning Image Processing Using Tensorflow Lite in Android Studio IDE in Java Language .....
 
 💬 Ask me about how college life is ....
 
-## Test my LMS App 
+## 📝 Test my LMS App 
 
 https://vast-mountain-33940.herokuapp.com/
 
