@@ -25,8 +25,6 @@ Im well-acquainted with Java,C#,PHP(API),PHP,TypeScript,.NET,JavaScript,HTML,CSS
 
 🧠 I'm currently learning Image Processing Using Tensorflow Lite in Android Studio IDE in Java Language .....
 
-💬 Ask me about how college life is ....
-
 ## 📝 Test my LMS App 
 
 https://vast-mountain-33940.herokuapp.com/
