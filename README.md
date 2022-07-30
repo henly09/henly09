@@ -32,3 +32,7 @@ https://vast-mountain-33940.herokuapp.com/
 username: awtsgege
 password: qweqwe
 
+## 📜 My Curriculum Vitae
+
+https://www.canva.com/design/DAFBuH86uc4/N6gcWUmusvikL7YIMM66aw/view?utm_content=DAFBuH86uc4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
