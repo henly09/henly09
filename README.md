@@ -1,7 +1,7 @@
 
 # Hi, I'm John Henly Montera! 👋
 
-My name is John Henly A. Montera, and I am a BSIT-4th Year student at Holy Cross of Davao College where I focusly studying Database Administrator. 
+My name is John Henly A. Montera, and I am a BSIT-4th Year student at Holy Cross of Davao College. 
 
 
 ## 🚀 About Me
