@@ -11,9 +11,4 @@
   </a>
 </p>
 
-## 📝 Test my LMS App 
-
-https://vast-mountain-33940.herokuapp.com/
-username: awtsgege
-password: qweqwe
 
