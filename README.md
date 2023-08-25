@@ -1,16 +1,8 @@
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://henly09.github.io/MyPortfolio/)
 [![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mhax.ter/)
-<!-- [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HenzQwerty) -->
 
-## 💻 Technology Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,vue,github,java,js,laravel,mysql,php,ps,react,sqlite,vscode,androidstudio&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Programmer from Phillipines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henly09&label=Profile%20views&color=0e75b6&style=flat" alt="henly09" /> </p>
 
