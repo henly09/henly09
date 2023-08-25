@@ -1,6 +1,7 @@
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://henly09.github.io/MyPortfolio/)
 [![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mhax.ter/)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -13,9 +14,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henly09&show_icons=true&locale=en&layout=compact" alt="henly09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henly09&" alt="henly09" /></p>
-width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henly09&show_icons=true&locale=en&layout=compact" alt="henly09" /></p>
-
 
 
