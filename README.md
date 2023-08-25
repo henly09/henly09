@@ -6,7 +6,7 @@
 ## 💻 Technology Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,vue,css,github,java,js,laravel,mysql,php,ps,react,sqlite,tensorflow,vscode,androidstudio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,vue,github,java,js,laravel,mysql,php,ps,react,sqlite,tensorflow,vscode,androidstudio&theme=dark" />
   </a>
 </p>
 
