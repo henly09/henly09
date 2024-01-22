@@ -64,7 +64,6 @@
                 </span>
             </div>
         </div>
-
         <div class="col-md-6">
             <!-- Laravel -->
             <div class="progress" data-aos="fade-left">
