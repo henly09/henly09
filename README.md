@@ -9,113 +9,24 @@
   </a>
 </p>
 
-<div class="container">
-    <div class="section-title text-center" data-aos="fade-right">
-        <h2 style="margin-bottom: 30px;">Tech Stack</h2>
-    </div>
-    <div class="row skills-content" style="display: flex; flex-wrap: wrap;">
-        <div class="col-md-6" style="flex: 0 0 50%; max-width: 50%; padding: 0 15px;">
-            <!-- PHP -->
-            <div class="progress" data-aos="fade-right" style="margin-bottom: 20px;">
-                <span class="skill" style="display: block;">
-                    <h6 class="fst-italic" style="margin: 0; font-weight: 600; color: rgb(72, 63, 63);">
-                        <img src="https://skillicons.dev/icons?i=php" alt="PHP" style="margin-right: 8px;"/> PHP (Programming Language)
-                    </h6>
-                </span>
-            </div>
-            <!-- JavaScript -->
-            <div class="progress" data-aos="fade-right" style="margin-bottom: 20px;">
-                <span class="skill" style="display: block;">
-                    <h6 class="fst-italic" style="margin: 0; font-weight: 600; color: rgb(72, 63, 63);">
-                        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="margin-right: 8px;"/> JavaScript (Programming Language)
-                    </h6>
-                </span>
-            </div>
-            <!-- Java -->
-            <div class="progress" data-aos="fade-right" style="margin-bottom: 20px;">
-                <span class="skill" style="display: block;">
-                    <h6 class="fst-italic" style="margin: 0; font-weight: 600; color: rgb(72, 63, 63);">
-                        <img src="https://skillicons.dev/icons?i=java" alt="Java" style="margin-right: 8px;"/> Java (Programming Language)
-                    </h6>
-                </span>
-            </div>
-            <!-- MySQL/MSSQL -->
-            <div class="progress" data-aos="fade-right" style="margin-bottom: 20px;">
-                <span class="skill" style="display: block;">
-                    <h6 class="fst-italic" style="margin: 0; font-weight: 600; color: rgb(72, 63, 63);">
-                        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL/MSSQL" style="margin-right: 8px;"/> MySQL/MSSQL (Programming Language)
-                    </h6>
-                </span>
-            </div>
-            <!-- Bootstrap -->
-            <div class="progress" data-aos="fade-right" style="margin-bottom: 20px;">
-                <span class="skill" style="display: block;">
-                    <h6 class="fst-italic" style="margin: 0; font-weight: 600; color: rgb(72, 63, 63);">
-                        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="margin-right: 8px;"/> Bootstrap (UI/UX Frameworks)
-                    </h6>
-                </span>
-            </div>
-            <!-- Tailwind -->
-            <div class="progress" data-aos="fade-right" style="margin-bottom: 20px;">
-                <span class="skill" style="display: block;">
-                    <h6 class="fst-italic" style="margin: 0; font-weight: 600; color: rgb(72, 63, 63);">
-                        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" style="margin-right: 8px;"/> Tailwind (UI/UX Frameworks)
-                    </h6>
-                </span>
-            </div>
-        </div>
-        <div class="col-md-6" style="flex: 0 0 50%; max-width: 50%; padding: 0 15px;">
-            <!-- Laravel -->
-            <div class="progress" data-aos="fade-left" style="margin-bottom: 20px;">
-                <span class="skill" style="display: block;">
-                    <h6 class="fst-italic" style="margin: 0; font-weight: 600; color: rgb(72, 63, 63);">
-                        <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" style="margin-right: 8px;"/> Laravel (Web System Framework)
-                    </h6>
-                </span>
-            </div>
-            <!-- Android Studio -->
-            <div class="progress" data-aos="fade-left" style="margin-bottom: 20px;">
-                <span class="skill" style="display: block;">
-                    <h6 class="fst-italic" style="margin: 0; font-weight: 600; color: rgb(72, 63, 63);">
-                        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="margin-right: 8px;"/> Android Studio (Mobile System Framework)
-                    </h6>
-                </span>
-            </div>
-            <!-- VueJS + NuxtJS + Laravel Back-End API -->
-            <div class="progress" data-aos="fade-left" style="margin-bottom: 20px;">
-                <span class="skill" style="display: block;">
-                    <h6 class="fst-italic" style="margin: 0; font-weight: 600; color: rgb(72, 63, 63);">
-                        <img src="https://skillicons.dev/icons?i=vuejs" alt="VueJS + NuxtJS + Laravel Back-End API" style="margin-right: 8px;"/> VueJS + NuxtJS + Laravel Back-End API (Web System Framework)
-                    </h6>
-                </span>
-            </div>
-            <!-- React Native -->
-            <div class="progress" data-aos="fade-left" style="margin-bottom: 20px;">
-                <span class="skill" style="display: block;">
-                    <h6 class="fst-italic" style="margin: 0; font-weight: 600; color: rgb(72, 63, 63);">
-                        <img src="https://skillicons.dev/icons?i=react" alt="React Native" style="margin-right: 8px;"/> React Native (Mobile System Framework)
-                    </h6>
-                </span>
-            </div>
-            <!-- Vuetify -->
-            <div class="progress" data-aos="fade-left" style="margin-bottom: 20px;">
-                <span class="skill" style="display: block;">
-                    <h6 class="fst-italic" style="margin: 0; font-weight: 600; color: rgb(72, 63, 63);">
-                        <img src="https://skillicons.dev/icons?i=vue" alt="Vuetify" style="margin-right: 8px;"/> Vuetify (UI/UX Frameworks)
-                    </h6>
-                </span>
-            </div>
-            <!-- WordPress Elementor -->
-            <div class="progress" data-aos="fade-left" style="margin-bottom: 20px;">
-                <span class="skill" style="display: block;">
-                    <h6 class="fst-italic" style="margin: 0; font-weight: 600; color: rgb(72, 63, 63);">
-                        <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress Elementor" style="margin-right: 8px;"/> WordPress Elementor (UI/UX Frameworks)
-                    </h6>
-                </span>
-            </div>
-        </div>
-    </div>
-</div>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henly09&show_icons=true&locale=en&layout=compact" alt="henly09" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=henly09&" alt="henly09" />
