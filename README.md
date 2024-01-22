@@ -1,6 +1,6 @@
-<h2 align="center">🔗 Profile</h2>
+<h2 align="left">🔗 Profile</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://henly09.github.io/MyPortfolio/">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
   </a>
