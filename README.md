@@ -10,16 +10,12 @@
 </p>
 
  <div class="container">
-
         <div class="section-title" data-aos="fade-right">
           <h2>Tech Stack</h2>
         </div>
         <br/><br/>
-
         <div class="row skills-content">
-
           <div class="col-lg-6">
-
             <div class="progress" data-aos="fade-right">
               <span class="skill">
                 <h6 class="fst-italic" style="font-weight:600; color:rgb(72, 63, 63);">
@@ -30,7 +26,6 @@
                 </h6>
               </span>
             </div>
-
             <div class="progress" data-aos="fade-right" >
               <span class="skill">
                 <h6 class="fst-italic" style="font-weight:600; color:rgb(72, 63, 63);">
@@ -41,7 +36,6 @@
                 </h6>
               </span>
             </div>
-
             <div class="progress" data-aos="fade-right">
               <span class="skill">
                 <h6 class="fst-italic" style="font-weight:600; color:rgb(72, 63, 63);">
@@ -52,7 +46,6 @@
                 </h6>
               </span>
             </div>
-
             <div class="progress" data-aos="fade-right" >
               <span class="skill">
                 <h6 class="fst-italic" style="font-weight:600; color:rgb(72, 63, 63);">
@@ -63,8 +56,6 @@
                 </h6>
               </span>
             </div>
-
-            
             <div class="progress" data-aos="fade-right" >
               <span class="skill">
                 <h6 class="fst-italic" style="font-weight:600; color:rgb(72, 63, 63);">
@@ -75,7 +66,6 @@
                 </h6>
               </span>
             </div>
-
             <div class="progress" data-aos="fade-right" >
               <span class="skill">
                 <h6 class="fst-italic" style="font-weight:600; color:rgb(72, 63, 63);">
@@ -86,11 +76,8 @@
                 </h6>
               </span>
             </div>
-
           </div>
-
           <div class="col-lg-6">
-
             <div class="progress" data-aos="fade-left" >
               <span class="skill">
                 <h6 class="fst-italic" style="font-weight:600; color:rgb(72, 63, 63);">
@@ -101,7 +88,6 @@
                 </h6>
               </span>
             </div>
-
             <div class="progress" data-aos="fade-left" >
               <span class="skill">
                 <h6 class="fst-italic" style="font-weight:600; color:rgb(72, 63, 63);">
@@ -112,7 +98,6 @@
                 </h6>
               </span>
             </div>
-
             <div class="progress" data-aos="fade-left" >
               <span class="skill">
                 <h6 class="fst-italic" style="font-weight:600; color:rgb(72, 63, 63);">
@@ -123,7 +108,6 @@
                 </h6>
               </span>
             </div>
-
             <div class="progress" data-aos="fade-left" >
               <span class="skill">
                 <h6 class="fst-italic" style="font-weight:600; color:rgb(72, 63, 63);">
@@ -134,7 +118,6 @@
                 </h6>
               </span>
             </div>
-
             <div class="progress" data-aos="fade-left" >
               <span class="skill">
                 <h6 class="fst-italic" style="font-weight:600; color:rgb(72, 63, 63);">
@@ -145,7 +128,6 @@
                 </h6>
               </span>
             </div>
-
             <div class="progress" data-aos="fade-left" >
               <span class="skill">
                 <h6 class="fst-italic" style="font-weight:600; color:rgb(72, 63, 63);">
@@ -156,13 +138,9 @@
                 </h6>
               </span>
             </div>
-
           </div>
-
         </div>
-
       </div>
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henly09&show_icons=true&locale=en&layout=compact" alt="henly09" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=henly09&" alt="henly09" />
