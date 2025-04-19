@@ -13,7 +13,7 @@
 <p align="center">
   <!-- PHP/Laravel -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg)" alt="laravel" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
