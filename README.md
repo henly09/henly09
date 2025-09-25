@@ -29,6 +29,17 @@
   <a href="https://gin-gonic.com" target="_blank">
     <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="50" height="50" style="background:white;padding:5px;border-radius:5px;" />
   </a>
+
+<!-- JavaScript/ExpressJS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+       alt="JavaScript" width="50" height="50" />
+</a>
+<a href="https://expressjs.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
+       alt="ExpressJS" width="50" height="50" style="background:white;padding:5px;border-radius:5px;" />
+</a>
+
   
   <!-- Docker -->
   <a href="https://docker.com" target="_blank">
