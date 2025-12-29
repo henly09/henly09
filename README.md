@@ -50,11 +50,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henly09&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henly09&layout=compact&theme=vue&hide_border=true&hide=html,css,scss,blade" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=henly09&theme=vue&hide_border=true" alt="GitHub Streak" />
 </div>
 
