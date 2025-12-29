@@ -4,10 +4,10 @@
   <a href="https://henly09.github.io/MyPortfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/mhaxter">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:monterahens@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -58,29 +58,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=henly09&theme=vue&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henly09&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="www.linkedin.com/in/mhaxter">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://x.com/HenzQwerty">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" />
   </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.icons8.com/windows/48/000000/dev.png" alt="Dev.to" width="40" />
-  </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:monterahens@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" />
   </a>
 </p>
