@@ -61,8 +61,8 @@
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henly09&theme=vue&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats (Alternative) -->
+  <img src="https://github-readme-streak-stats.vercel.app/api?user=henly09&theme=vue&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
