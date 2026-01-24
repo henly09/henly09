@@ -61,8 +61,8 @@
 
 <div align="center">
   
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=henly09&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henly09&theme=vue&hide_border=true&area=true" alt="GitHub Activity Graph" />
   
 </div>
 
