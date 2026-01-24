@@ -61,8 +61,8 @@
 
 <div align="center">
   
-  <!-- GitHub Streak Stats (Alternative) -->
-  <img src="https://github-readme-streak-stats.vercel.app/api?user=henly09&theme=vue&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=henly09&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   
 </div>
 
