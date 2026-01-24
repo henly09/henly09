@@ -50,23 +50,35 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henly09&theme=vue&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henly09&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henly09&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+  
 </div>
 
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henly09&theme=vue&hide_border=true" alt="GitHub Streak" />
+  
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/mhaxter">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
+  <a href="https://linkedin.com/in/mhaxter">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/HenzQwerty">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:monterahens@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
