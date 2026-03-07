@@ -59,15 +59,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henly09&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henly09&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
